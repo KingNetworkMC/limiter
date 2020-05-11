@@ -1,0 +1,12 @@
+name: KingLimiter
+main: ru.alexeylesin.kinglimiter.Main
+version: 1.0
+
+commands:
+   kinglimiter:
+    aliases: klt
+permissions:
+    kinglimiter.use:
+        default: op
+    kinglimiter.ignore:
+        default: op

@@ -1,0 +1,34 @@
+block-limit:
+  default:
+    //set: 0
+    //walls: 0
+    //brush: 0
+    //sphere: 0
+    //hsphere: 0
+    //pyramid: 0
+    //hpyramid: 0
+    //replacenear: 0
+  admin:
+    //set: 0
+    //walls: 0
+    //brush: 0
+    //sphere: 0
+    //hsphere: 0
+    //pyramid: 0
+    //hpyramid: 0
+    //replacenear: 0
+gm-forbidden:
+- 327
+- 383
+- 373
+- 295
+- 41
+- 261
+argument-limit:
+  default:
+    commands-list:
+    - //sphere
+    //sphere:
+      limited:
+      - 1
+      '1': 20
